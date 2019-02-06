@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Exercicios1"/>
+	<classpathentry kind="src" path="Exercicios2"/>
+	<classpathentry kind="src" path="Exercicios3"/>
+	<classpathentry kind="src" path="Exercicios4"/>
+	<classpathentry kind="src" path="Exercicios5"/>
+	<classpathentry kind="src" path="Anotações"/>
+	<classpathentry kind="src" path="Exercicios6"/>
+	<classpathentry kind="src" path="Exercicio7.list"/>
+	<classpathentry kind="src" path="Matriz"/>
+	<classpathentry kind="src" path="Git"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
